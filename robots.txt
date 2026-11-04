@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-d24b5eb019.nxxlfood.cn/sitemap.xml
